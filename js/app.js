@@ -122,8 +122,8 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "",
-      "background_image": url("sea_underwater.jpg"),
+      "background_color": "#6a5acd",
+      "background_image": "",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
       "background_size": "cover"
