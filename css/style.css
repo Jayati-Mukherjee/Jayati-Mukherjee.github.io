@@ -1232,7 +1232,7 @@ img.fb:hover{
 .git{
   position: absolute;
   top: 110%;
-  left: 260px;
+  left: 90px;
   height: 40px;
   width: 40px;
   -webkit-filter: grayscale(100%); 
@@ -1255,7 +1255,7 @@ img.git:hover{
 .twitter{
   position: absolute;
   top: 110%;
-  left: 90px;
+  left: 260px;
   height: 45px;
   width: 55px;
   -webkit-filter: grayscale(100%); 
